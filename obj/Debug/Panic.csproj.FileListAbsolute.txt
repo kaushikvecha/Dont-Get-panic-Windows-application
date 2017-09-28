@@ -1,0 +1,38 @@
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\Bin\Debug\Panic.dll
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\Bin\Debug\Panic.pdb
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\Bin\Debug\AppManifest.xaml
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\Bin\Debug\Panic_Debug_AnyCPU.xap
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\obj\Debug\App.g.cs
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\obj\Debug\MainPage.g.cs
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\obj\Debug\Panic.g.resources
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\obj\Debug\Panic.Resources.AppResources.resources
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\obj\Debug\Panic.csproj.GenerateResource.Cache
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\obj\Debug\Panic.dll
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\obj\Debug\Panic.pdb
+c:\users\jinka\documents\visual studio 2013\Projects\Panic\Panic\obj\Debug\XapCacheFile.xml
+D:\app\Panic\Panic\obj\Debug\App.g.cs
+D:\app\Panic\Panic\obj\Debug\MainPage.g.cs
+D:\app\Panic\Panic\obj\Debug\Panic.g.resources
+D:\app\Panic\Panic\obj\Debug\Panic.dll
+D:\app\Panic\Panic\obj\Debug\Panic.pdb
+D:\app\Panic\Panic\Bin\Debug\Assets\ApplicationIcon.png
+D:\app\Panic\Panic\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\app\Panic\Panic\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\app\Panic\Panic\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\app\Panic\Panic\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\app\Panic\Panic\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\app\Panic\Panic\Bin\Debug\Panic.dll
+D:\app\Panic\Panic\Bin\Debug\Panic.pdb
+D:\app\Panic\Panic\Bin\Debug\AppManifest.xaml
+D:\app\Panic\Panic\Bin\Debug\Properties\WMAppManifest.xml
+D:\app\Panic\Panic\Bin\Debug\Panic_Debug_AnyCPU.xap
+D:\app\Panic\Panic\obj\Debug\Panic.Resources.AppResources.resources
+D:\app\Panic\Panic\obj\Debug\Panic.csproj.GenerateResource.Cache
+D:\app\Panic\Panic\obj\Debug\XapCacheFile.xml

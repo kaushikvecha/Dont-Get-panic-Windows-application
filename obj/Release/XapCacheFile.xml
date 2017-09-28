@@ -1,0 +1,12 @@
+﻿<xapCache source="D:\app\Panic\Panic\Bin\Release\Panic_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="8/7/2015 3:13:35 PM">
+  <file source="D:\app\Panic\Panic\obj\Release\Panic.dll" archivePath="Panic.dll" lastWriteTime="8/7/2015 3:13:33 PM" />
+  <file source="D:\app\Panic\Panic\Assets\PanicButton.png" archivePath="Assets\PanicButton.png" lastWriteTime="9/4/2014 9:25:27 PM" />
+  <file source="D:\app\Panic\Panic\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="9/4/2014 9:25:27 PM" />
+  <file source="D:\app\Panic\Panic\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="9/4/2014 9:25:27 PM" />
+  <file source="D:\app\Panic\Panic\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="9/4/2014 9:25:27 PM" />
+  <file source="D:\app\Panic\Panic\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="9/4/2014 9:25:27 PM" />
+  <file source="D:\app\Panic\Panic\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="3/2/2015 9:49:00 AM" />
+  <file source="D:\app\Panic\Panic\Bin\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="9/4/2014 9:25:27 PM" />
+  <file source="D:\app\Panic\Panic\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="9/4/2014 9:25:27 PM" />
+  <file source="D:\app\Panic\Panic\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="3/2/2015 9:49:00 AM" />
+</xapCache>
